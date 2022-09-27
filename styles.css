@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    border-style: solid;
+font-size: 60pt;
+color: mintcream;
+
+}
+
+
+p{
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+    color: mintcream;
+}
+ul{
+    text-align: center;
+    color: mintcream;
+
+}
+
+p{
+    font-size: xx-large;
+    font-style: bold;
+    
+}
+
+
+body{
+    background-color: rgb(185, 185, 185);
+
+}
+img{
+    width: 25vw;
+}
+
+ol{
+
+    text-align: justify;
+    font-size: xx-large;
+    color: paleturquoise;
+}
+
+.logo{
+    width: 100vw;
+    height: 40vh;
+}
+.about{
+    font-size: medium;
+    font-style: oblique;
+    color: rgb(59, 199, 209);
+}
