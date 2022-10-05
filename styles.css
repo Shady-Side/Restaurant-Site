@@ -32,7 +32,7 @@ body{
 
 }
 img{
-    width: 25vw;
+    width: 35vw;
 }
 
 ol{
@@ -50,4 +50,9 @@ ol{
     font-size: large;
     font-style: oblique;
     color: rgb(0, 84, 90);
+}
+
+
+.drinks{
+    height: min-content ;
 }
